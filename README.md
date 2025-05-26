@@ -1,3 +1,5 @@
+# EDIT: please do pip install requests
+
 # Random Quote Generator
 
 A simple Python script that prints a random quote to the console.
